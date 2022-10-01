@@ -33,11 +33,6 @@ function DataTable() {
         <Cell dataKey="ip_address" />
       </Column>
 
-
-
-
-
-
     </Table>
   );
 }
